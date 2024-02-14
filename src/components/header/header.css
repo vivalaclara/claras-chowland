@@ -1,0 +1,13 @@
+.header{
+    color: var(--dark);
+    background-color: var(--neon);
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+#logolink{
+    font-size: 2rem;
+}
